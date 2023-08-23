@@ -1,0 +1,12 @@
+1- https://www.geeksforgeeks.org/html-course-structure-of-an-html-document/
+	https://stackoverflow.com/questions/6760620/html-structure
+2-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+	https://stackoverflow.com/questions/53229828/html-5-semantic-tags
+3-https://www.w3schools.com/html/html_forms.asp
+	https://stackoverflow.com/questions/29868581/how-to-resolve-the-following-html-error
+4- https://www.w3schools.com/html/html_accessibility.asp
+	https://stackoverflow.com/questions/71408997/accessibility-label-required
+5-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
+	https://stackoverflow.com/questions/21531269/optimizing-html-tables
+6-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+	https://stackoverflow.com/questions/43325543/css-selectors-difference-between-and-when-to-use-or
